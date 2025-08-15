@@ -42,8 +42,3 @@ Example where no discount is applied:
 - Enter the discount percentage: 15
 - Output:
   - No discount applied. The original price is: $100.00
-
-
-MIT (or choose your preferred license)
-
-If you’d like, I can tailor this README to your exact project name, add a quick test suite, or convert it to a small module with a CLI interface using argparse.
